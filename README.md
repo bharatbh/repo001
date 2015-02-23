@@ -1,2 +1,1 @@
-# repo001
-test-repo
+This is about HP 3PAR SAN Storage.
